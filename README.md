@@ -7,11 +7,11 @@
 <img align="right" height="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
 - 🌱 I’m currently learning **Mern stack,ML,AI**
 
-- 👨‍💻 All of my projects are available at [https://nifalch.github.io/portfolio-website/](https://nifalch.github.io/portfolio-website/)
+- 👨‍💻 All of my projects & experiences are available at [https://nifalch.github.io/portfolio-website/](https://nifalch.github.io/portfolio-website/)
 
 - 📫 How to reach me **nifal@ieee.org**
 
-- 📄 Know about my experiences [https://nifalch.github.io/portfolio-website/](https://nifalch.github.io/portfolio-website/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
