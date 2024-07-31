@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 
 # 💫 About Me:
-Hi! I'm  <br>a tech enthusiast with a B.Tech in Information Technology. <br>I specialize in Python, Web, CyberSecurity, AI, ML, and blockchain technologies
+Hi! I'm a tech enthusiast with a B.Tech in Information Technology. <br>I specialize in Python, Web, CyberSecurity, AI, ML, and blockchain technologies
 
 
 ## 🌐 Socials:
